@@ -1,0 +1,51 @@
+@charset "utf-8";
+
+
+body{
+	background-image:url(background.png);
+	z-index:0;
+	}
+.logo {
+		z-index:1;
+		}
+	
+.nav {
+	background-color:#C15914;
+	z-index:0;
+	}
+a {
+	color:white;
+	
+	text-align:center;
+	}
+	.division{
+		background-color:#C15914;
+		width:100%;
+		height:20px;
+		}
+	h1{
+		text-align:center;
+	
+		font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+		}
+	.texto {
+			padding-top:10px;
+			vertical-align:center;
+			background-color:#CCCCCC;
+			background-size:cover;
+			align-content:center;
+			font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+		}
+	
+	.personas {
+		padding-top:10px;
+		align-content:center;
+		vertical-align:center;
+		
+		}
+		
+	.arquitectura {
+		align-content:center;
+		vertical-align:central;
+		padding-top:10px;
+		}
